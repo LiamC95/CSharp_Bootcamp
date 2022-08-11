@@ -11,7 +11,7 @@ To download Visual Studio you can download [here](https://visualstudio.microsoft
 ## Challenge 2: Hello, World
 
 Time has come writing my first piece of C# code, "Hello, World". Riveting stuff. The code wasn't the issue at this point, running the code on the other hand is completely diferent task. I created a new project [learning](./Learning/) which generated a lot of code.
-All that I need is the following, I think
+All that I need is the following, I think.
 
     using System;
 
@@ -27,4 +27,4 @@ All that I need is the following, I think
 }
 
 now all that's left is to run, so I hit Build in top left corner and the build failed...
-So I went to the Build menu and select Rebuild Solution. 
+So I went to the Build menu and select Rebuild Solution and it built successfully 
