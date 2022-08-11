@@ -1,0 +1,10 @@
+/Users/LiamClarke/Documents/C#_Learning/Learning/Learning/bin/Release/netstandard2.1/Learning.deps.json
+/Users/LiamClarke/Documents/C#_Learning/Learning/Learning/bin/Release/netstandard2.1/Learning.dll
+/Users/LiamClarke/Documents/C#_Learning/Learning/Learning/bin/Release/netstandard2.1/Learning.pdb
+/Users/LiamClarke/Documents/C#_Learning/Learning/Learning/obj/Release/netstandard2.1/Learning.csproj.AssemblyReference.cache
+/Users/LiamClarke/Documents/C#_Learning/Learning/Learning/obj/Release/netstandard2.1/Learning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/LiamClarke/Documents/C#_Learning/Learning/Learning/obj/Release/netstandard2.1/Learning.AssemblyInfoInputs.cache
+/Users/LiamClarke/Documents/C#_Learning/Learning/Learning/obj/Release/netstandard2.1/Learning.AssemblyInfo.cs
+/Users/LiamClarke/Documents/C#_Learning/Learning/Learning/obj/Release/netstandard2.1/Learning.csproj.CoreCompileInputs.cache
+/Users/LiamClarke/Documents/C#_Learning/Learning/Learning/obj/Release/netstandard2.1/Learning.dll
+/Users/LiamClarke/Documents/C#_Learning/Learning/Learning/obj/Release/netstandard2.1/Learning.pdb
