@@ -43,3 +43,11 @@ Now I am a C# coder. To run the code click the play icon in the top ledt corner 
 ![Hello, World](./Images/FirstApp/HelloWorld.png)
 
 ## Challenge 3: Some coding challenges
+To begin learning more aspects of C# I decided to use the microsoft [self guided tutorial](https://docs.microsoft.com/en-ie/users/dotnet/collections/yz26f8y64n7k07?WT.mc_id=dotnet-35129-website). I went with the **Take your first steps with C#** tutorial. 
+**Spoiler Alert**
+The browser has an in-built code editor which can be used to run code however to track my work I decided to add it to this repo to track my progress.
+I have found that C# is case sensitive.
+    Console.WriteLine("Hello, World!");
+
+Throws the error 
+    (1,19): error CS1012: Too many characters in character literal
