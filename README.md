@@ -49,5 +49,7 @@ The browser has an in-built code editor which can be used to run code however to
 I have found that C# is case sensitive.
     Console.WriteLine("Hello, World!");
 
-Throws the error 
-    (1,19): error CS1012: Too many characters in character literal
+Throws the error
+
+    (1,1): error CS0103: The name 'console' does not exist in the current context
+
