@@ -27,7 +27,7 @@ Time has come writing my first piece of C# code, "Hello, World". Riveting stuff.
 ~~}~~
 
 ~~now all that's left is to run, so I hit Build in top left corner and the build failed...~~
-~~So I went to the Build menu and select Rebuild Solution and it built successfully, I couldn't figure out how to get it to run. ~~
+~~ So I went to the Build menu and select Rebuild Solution and it built successfully, I couldn't figure out how to get it to run. ~~
 
 Scratch that I built my project wrong and I could refactor my code to a single line. 
     Console.WriteLine("Hello, World!");
@@ -54,3 +54,13 @@ Throws the error
     (1,1): error CS0103: The name 'console' does not exist in the current context
 
 To finish the tutorial there is a quick quiz, I passed with flying colours. 
+
+I went back to the [the video tutorials](https://dotnet.microsoft.com/en-us/learn/videos) and ran through the first 10 in an hour and they were great. Most of the time I don't like video tutorials however these I enjoyed. I learnt about Strings, numbers and branches. I still have to finish off the tutorial but we should have a good base if I complete these tutorials. 
+
+Majority of the points are straight forward if you have previous programming knowledge. 
+
+
+
+
+## Challenge 4: Find Coding projects to wirte
+

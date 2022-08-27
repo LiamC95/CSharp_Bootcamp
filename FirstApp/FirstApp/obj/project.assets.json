@@ -8,28 +8,32 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/LiamClarke/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\WilliamClarke\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/LiamClarke/Documents/C#_Learning/FirstApp/FirstApp/FirstApp.csproj",
+      "projectUniqueName": "D:\\Coding\\CSharp_Bootcamp-main\\CSharp_Bootcamp\\FirstApp\\FirstApp\\FirstApp.csproj",
       "projectName": "FirstApp",
-      "projectPath": "/Users/LiamClarke/Documents/C#_Learning/FirstApp/FirstApp/FirstApp.csproj",
-      "packagesPath": "/Users/LiamClarke/.nuget/packages/",
-      "outputPath": "/Users/LiamClarke/Documents/C#_Learning/FirstApp/FirstApp/obj/",
+      "projectPath": "D:\\Coding\\CSharp_Bootcamp-main\\CSharp_Bootcamp\\FirstApp\\FirstApp\\FirstApp.csproj",
+      "packagesPath": "C:\\Users\\WilliamClarke\\.nuget\\packages\\",
+      "outputPath": "D:\\Coding\\CSharp_Bootcamp-main\\CSharp_Bootcamp\\FirstApp\\FirstApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "/Users/LiamClarke/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\WilliamClarke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -63,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

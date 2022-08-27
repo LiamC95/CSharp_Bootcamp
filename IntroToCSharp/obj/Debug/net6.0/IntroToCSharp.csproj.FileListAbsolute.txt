@@ -1,0 +1,15 @@
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\IntroToCSharp\bin\Debug\net6.0\IntroToCSharp.exe
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\IntroToCSharp\bin\Debug\net6.0\IntroToCSharp.deps.json
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\IntroToCSharp\bin\Debug\net6.0\IntroToCSharp.runtimeconfig.json
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\IntroToCSharp\bin\Debug\net6.0\IntroToCSharp.dll
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\IntroToCSharp\bin\Debug\net6.0\IntroToCSharp.pdb
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\IntroToCSharp\obj\Debug\net6.0\IntroToCSharp.csproj.AssemblyReference.cache
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\IntroToCSharp\obj\Debug\net6.0\IntroToCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\IntroToCSharp\obj\Debug\net6.0\IntroToCSharp.AssemblyInfoInputs.cache
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\IntroToCSharp\obj\Debug\net6.0\IntroToCSharp.AssemblyInfo.cs
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\IntroToCSharp\obj\Debug\net6.0\IntroToCSharp.csproj.CoreCompileInputs.cache
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\IntroToCSharp\obj\Debug\net6.0\IntroToCSharp.dll
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\IntroToCSharp\obj\Debug\net6.0\refint\IntroToCSharp.dll
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\IntroToCSharp\obj\Debug\net6.0\IntroToCSharp.pdb
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\IntroToCSharp\obj\Debug\net6.0\IntroToCSharp.genruntimeconfig.cache
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\IntroToCSharp\obj\Debug\net6.0\ref\IntroToCSharp.dll
