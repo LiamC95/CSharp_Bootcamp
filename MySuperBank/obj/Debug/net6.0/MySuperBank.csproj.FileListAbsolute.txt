@@ -1,0 +1,15 @@
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\MySuperBank\bin\Debug\net6.0\MySuperBank.exe
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\MySuperBank\bin\Debug\net6.0\MySuperBank.deps.json
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\MySuperBank\bin\Debug\net6.0\MySuperBank.runtimeconfig.json
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\MySuperBank\bin\Debug\net6.0\MySuperBank.dll
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\MySuperBank\bin\Debug\net6.0\MySuperBank.pdb
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\MySuperBank\obj\Debug\net6.0\MySuperBank.csproj.AssemblyReference.cache
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\MySuperBank\obj\Debug\net6.0\MySuperBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\MySuperBank\obj\Debug\net6.0\MySuperBank.AssemblyInfoInputs.cache
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\MySuperBank\obj\Debug\net6.0\MySuperBank.AssemblyInfo.cs
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\MySuperBank\obj\Debug\net6.0\MySuperBank.csproj.CoreCompileInputs.cache
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\MySuperBank\obj\Debug\net6.0\MySuperBank.dll
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\MySuperBank\obj\Debug\net6.0\refint\MySuperBank.dll
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\MySuperBank\obj\Debug\net6.0\MySuperBank.pdb
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\MySuperBank\obj\Debug\net6.0\MySuperBank.genruntimeconfig.cache
+D:\Coding\CSharp_Bootcamp-main\CSharp_Bootcamp\MySuperBank\obj\Debug\net6.0\ref\MySuperBank.dll
